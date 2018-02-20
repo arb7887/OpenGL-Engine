@@ -1,0 +1,19 @@
+﻿  Timer.cpp
+  Texture.cpp
+  Shader.cpp
+z:\igmprofile\desktop\dsa1\dsa1engineandrew\dsa1engineandrew\shader.cpp(59): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Object.cpp
+z:\igmprofile\desktop\dsa1\dsa1engineandrew\dsa1engineandrew\object.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Myobj.cpp
+  Model.cpp
+  Game.cpp
+z:\igmprofile\desktop\dsa1\dsa1engineandrew\dsa1engineandrew\camera.h(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Engine.cpp
+z:\igmprofile\desktop\dsa1\dsa1engineandrew\dsa1engineandrew\engine.h(12): warning C4091: 'static ': ignored on left of 'Engine' when no variable is declared
+  Camera.cpp
+z:\igmprofile\desktop\dsa1\dsa1engineandrew\dsa1engineandrew\camera.h(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\dsa1\dsa1engineandrew\dsa1engineandrew\camera.cpp(44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+z:\igmprofile\desktop\dsa1\dsa1engineandrew\dsa1engineandrew\camera.cpp(45): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  DSA1EngineAndrew.vcxproj -> Z:\IGMProfile\Desktop\DSA1\DSA1EngineAndrew\Debug\DSA1EngineAndrew.exe
